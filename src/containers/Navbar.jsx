@@ -26,7 +26,7 @@ const Navbar = () => {
       <div
         className={
           showMenu
-            ? "fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 ease-in-out duration-300"
+            ? "fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 ease-in-out duration-300 bg-[#000300]"
             : "fixed left-[-100%]"
         }
       >
